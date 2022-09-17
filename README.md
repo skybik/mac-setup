@@ -1,4 +1,4 @@
 # mac-setup
 
-homebrew
-npm
+# homebrew
+# npm
