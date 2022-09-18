@@ -1,8 +1,9 @@
 # mac-setup
 
 - homebrew
-- npm
+- node & npm
 - iterm2
 - atom
 - firefox
 - chrome
+- sass
