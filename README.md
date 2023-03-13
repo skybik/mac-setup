@@ -1,7 +1,12 @@
 # mac-setup
 
-- homebrew
-- node & npm
-- iterm2
-- atom
-- sass
+- VS Code
+- Homebrew
+- Node.js
+- Git
+- AltTab
+- Hyper
+- Google Chrome
+- Firefox Developer Edition
+- Postman
+- Obsidian
